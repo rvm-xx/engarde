@@ -16,7 +16,7 @@ Supports python 2.7+ and 3.4+
 Why?
 ====
 
-Data are messy.
+Data are always messy.
 But, our analysis often depends on certain assumptions about our data
 that *should* be invariant across updates to your dataset.
 `engarde` is a lightweight way to explicitly state your assumptions
